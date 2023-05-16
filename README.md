@@ -4,7 +4,7 @@
 [![Badge do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alansouzeesi@gmail.com)
 
 ## Sobre Mim
-Prazer, meu nome é Alan e sou um desenvolvedor apaixonado por tecnologia, com interesse em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
+Prazer, meu nome é Alan e sou um estudante no curso Bacharelado em Engenharia de Software na IFSP - São Carlos e um desenvolvedor apaixonado por tecnologia, com interesse em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&theme=dracula)
 
