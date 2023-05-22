@@ -38,6 +38,6 @@ Frameworks:<br>
 - Email: alansouzeesi@gmail.com
 
 - [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanvasconi/)
-- Website: [seu website pessoal](seusite.com)
+- Website: [Site de estudos criado por mim](https://alanbes.netlify.app/computadores)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir colaborações ou oportunidades de trabalho. Vamos criar coisas incríveis juntos!
