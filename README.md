@@ -1,43 +1,49 @@
-# Bem-vindo(a) ao meu perfil do GitHub! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alan;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-[![Badge do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alansouzeesi@gmail.com)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Vasconi&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+</div>
 
+[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Sobre Mim
-Prazer, meu nome é Alan e sou um desenvolvedor apaixonado por tecnologia, com interesse em desenvolvimento web e mobile. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alan-Vasconi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&theme=dracula)
+<div align="center">  
+<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Vasconi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Main skills:
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 
-## Habilidades
-Linguagens de programação: <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-Frameworks:<br>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br>Front End: <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
+  
+### Studying in this moment:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-## Projetos Destacados
-<br>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alan-Vasconi}/count.svg" /></p> 
+<br></div>
+  
 
-- [![Site](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)](alan-bes.netlify.app) -  Atualmente em meu primeiro ano de Engenharia de software, estou desenvolvendo sites de minha autoria sobre as disciplinas que estou aprendendo..
-
-## Educação 👩‍💻
-
-### Bacharelado em Engenharia de Sofware - IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos).
-- Cursos relevantes: Algoritmos e Estruturas de Dados, iWeb, Processos de Produção de Software, Arquitetura e Organização de computadores.
-
-## Curso de Desenvolvimento Web - Online (2023)
-- Aprendizado de HTML, CSS.
-
-## Contato
-- Email: alansouzeesi@gmail.com
-
-- [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanvasconi/)
-- Website: [Site de estudos criado por mim](https://alanbes.netlify.app/computadores)
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir colaborações ou oportunidades de trabalho. Vamos criar coisas incríveis juntos!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>****
